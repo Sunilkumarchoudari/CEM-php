@@ -23,7 +23,7 @@
             
             <div class="container">
                 <div class="col-md-6 contacts">
-                    <h1><span class="glyphicon glyphicon-user"></span> MIST college</h1>
+                    <h1><span class="glyphicon glyphicon-user"></span>MIST college</h1>
                     <p>
                         <span class="glyphicon glyphicon-envelope"></span> Email: mist.events@gmail.com<br>
                         <span class="glyphicon glyphicon-link"></span> Facebook: www.facebook.com/mistevents<br>
