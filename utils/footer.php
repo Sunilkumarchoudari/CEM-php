@@ -14,7 +14,7 @@
 
                     <p class = "footerSubtext2">
                             It’s the celebration of the foundation of your life
-                        <br>&copy; MIST Events Venue, 2021.
+                        <br>&copy; MIST Events, 2021.
                     </p>
                 </div>
             </section>
