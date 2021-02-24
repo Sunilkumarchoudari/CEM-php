@@ -47,13 +47,13 @@
                             Also, many different forms of dances are found in different parts of India. 
                             They are the best way of representation of the particular culture and tradition from which they originate.
                         </p>
-                        <hr class="customline">
-                        <!--css modified horizontal line-->
+                        <!-- <hr class="customline">
+                        css modified horizontal line-
                         <button type="button" class="btn btn-default btn-lg">
-                            <!--view event button (no function implemented)-->
+                            view event button (no function implemented)
                             View Events <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                            <!--arrow right glyphicon-->
-                        </button>
+                            arrow right glyphicon
+                        </button> -->
                     </div>
                     <!--subcontent div-->
                 </div>
@@ -87,13 +87,13 @@
                             With some many fests being organized every year and limited spare time, 
                             it is important to identify tech fests which will add the most value to your intellect and resume.
                         </p>
-                        <hr class="customline">
-                        <!--css modified horizontal line-->
+                        <!-- <hr class="customline">
+                        css modified horizontal line
                         <button type="button" class="btn btn-default btn-lg">
-                            <!--view event button (no function implemented)-->
+                            view event button (no function implemented)
                             View Events <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                            <!--arrow right glyphicon-->
-                        </button>
+                            arrow right glyphicon
+                        </button> -->
                     </div>
                     <!--subcontent div-->
                 </div>
@@ -127,13 +127,13 @@
                             target audience, devising the event concept, planning the logistics and coordinating the technical aspects before actually executing the moralities of the
                             proposed event. 
                         </p>
-                        <hr class="customline">
-                        <!--css modified horizontal line-->
+                        <!--<hr class="customline">
+                        css modified horizontal line
                         <button type="button" class="btn btn-default btn-lg">
-                            <!--view event button (no function implemented)-->
+                            view event button (no function implemented)
                             View Events <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                            <!--arrow right glyphicon-->
-                        </button>
+                            arrow right glyphicon
+                        </button> -->
                     </div>
                     <!--subcontent div-->
                 </div>
@@ -166,13 +166,13 @@
                             self-control and sporting spirit. 
                             Sports can learn students’ physical co-ordination and social lessons about winning and losing.
                         </p>
-                        <hr class="customline">
-                        <!--css modified horizontal line-->
+                        <!-- <hr class="customline">
+                        css modified horizontal line
                         <button type="button" class="btn btn-default btn-lg">
-                            <!--view event button (no function implemented)-->
+                            view event button (no function implemented)
                             View Events <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                            <!--arrow right glyphicon-->
-                        </button>
+                            arrow right glyphicon
+                        </button> -->
                     </div>
                     <!--subcontent div-->
                 </div>
