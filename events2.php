@@ -30,7 +30,7 @@
                             <span class="day">03</span><!--day-->
                         </div>
                         <div class="col-md-5"><!--image holder with 5 grid column-->
-                            <img src="images/bdayevent.jpg" class="img-responsive">
+                            <img src="images/dance.jpg" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--event content holder with 6 grid column-->
                             <h1 class="title">Dance</h1><!--event content title-->
@@ -66,7 +66,7 @@
                             <span class="day">04</span><!--day-->
                         </div>
                         <div class="col-md-5"><!--image holder with 5 grid column-->
-                            <img src="images/fashevent.jpg" class="img-responsive">
+                            <img src="images/coding.jpg" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--event content holder with 6 grid column-->
                             <h1 class="title">Coding</h1><!--event content title-->
@@ -101,7 +101,7 @@
                             <span class="day">20</span><!--day-->
                         </div>
                         <div class="col-md-5"><!--image holder with 5 grid column-->
-                            <img src="images/wedevent.jpg" class="img-responsive">
+                            <img src="images/best-manager.jpg" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--event content holder with 6 grid column-->
                             <h1 class="title">Best Manager</h1><!--event content title-->
@@ -136,7 +136,7 @@
                             <span class="day">20</span><!--day-->
                         </div>
                         <div class="col-md-5"><!--image holder with 5 grid column-->
-                            <img src="images/meetevent.jpg" class = "img-responsive">
+                            <img src="images/sports-events.jpg" class = "img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--event content holder with 6 grid column-->
                             <h1 class="title">Sports Events</h1><!--event content title-->
