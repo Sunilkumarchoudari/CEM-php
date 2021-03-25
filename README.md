@@ -1,2 +1,2 @@
-# college-management-event
+# CEM-php
 PHP
